@@ -1,0 +1,21 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/unreal_engine_projects/cours_unreal/cours_amine/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/unreal_engine_projects/cours_unreal/cours_amine/Content/FirstPerson/Input/IMC_Default.uasset",
+				"D:/unreal_engine_projects/cours_unreal/cours_amine/Content/BluPrint/Ligths/BPI_button_ligth.uasset",
+				"D:/unreal_engine_projects/cours_unreal/cours_amine/Content/BluPrint/Ligths/BP_ligth.uasset",
+				"D:/unreal_engine_projects/cours_unreal/cours_amine/Content/FirstPerson/Input/Actions/IA_interact.uasset",
+				"D:/unreal_engine_projects/cours_unreal/cours_amine/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"D:/unreal_engine_projects/cours_unreal/cours_amine/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/XC/7LJ0URL8E7V82F6KCJMNBO.uasset",
+				"D:/unreal_engine_projects/cours_unreal/cours_amine/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/5A/YGY31BG0UNXL88AMRQHRFO.uasset",
+				"D:/unreal_engine_projects/cours_unreal/cours_amine/Content/EF_FirstFloor/Maps/FirstFloor.umap",
+				"D:/unreal_engine_projects/cours_unreal/cours_amine/Content/BluPrint/Ligths/ligths.uasset"
+			]
+		}
+	]
+}
